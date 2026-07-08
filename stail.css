@@ -3,5 +3,7 @@ body{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border:10px solid;
+  border: 10px solid;
+  font-size: 20px;
+  font-family: sans-serif;
 }
